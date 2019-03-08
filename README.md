@@ -1,4 +1,8 @@
-# friendly collab party
+# Friendly collab party
 
-To get a basic understanding of GitHub
-To learn the basics about GitHub
+## Description of my project
+
+Hello everybody!
+
+- (creating the list)
+- Version control
